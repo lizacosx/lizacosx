@@ -1,20 +1,17 @@
 <div align="center">  
-<img width=50% src="https://i.pinimg.com/originals/93/08/1e/93081e266f7f0b20778d2736978b2e84.gif"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9AF8B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Elisa+Costa;I'm+26+years+old;I+am+from+Rio+de+Janeiro,RJ-Brazil;Be+Welcome!😊)](https://git.io/typing-svg) 
+<img width=50% src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9AF8B&size=35&center=true&vCenter=true&width=900&lines=HELLO,+my+name+is+Elisa+Costa;I'm+26+years+old;I+am+from+Rio+de+Janeiro,RJ-Brazil;Be+Welcome!😊)](https://git.io/typing-svg) 
+  
  <h2>  Technology 💻 </h2>
    <p>
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
         <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
-        <img alt="Git" src="https://img.shields.io/badge/-Git-black?logo=git">
-        <img alt="Spotify" src="https://img.shields.io/badge/Spotify-000.svg?logo=spotify&logoColor=1ED760">
    </p>
     
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <img alt="ProfileVisits" src="https://komarev.com/ghpvc/?username=lizacosx&label=Profile%20Visits&color=BF573F&style=for-the-badge">
 <div align="center">  

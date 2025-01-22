@@ -4,7 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=30&duration=4000&pause=1000&color=7DBF6B&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Elisa+Costa;I'm+26+years+old;I+am+from+Rio+de+Janeiro+-+RJ+Brazil+;Be+Welcome!+)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/64yYAxZgbg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lizacosx/) 
+<div align="center">
+  <a href="https://discord.gg/64yYAxZgbg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/lizacosx/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  </a>
+</div>
   
  <h2> Technology 💻 </h2>
  

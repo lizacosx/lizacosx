@@ -9,31 +9,14 @@
  <h2> Technology 💻 </h2>
  
   <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,lua,react,vscode,py,github"/>
+  
+  </div>
 
-
-<img alt="ProfileVisits" src="https://komarev.com/ghpvc/?username=lizacosx&label=Profile%20Visits&color=7DBF6B&style=for-the-badge">
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lizacosx&show_icons=true&count_private=true&hide_border=true&title_color=7DBF6B&icon_color=4D736F&text_color=7DBF6B&bg_color=0d1117" alt="Elisa Costa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizacosx&layout=compact&hide_border=true&title_color=7DBF6B&text_color=7DBF6B&bg_color=0d1117" />
-
+<img alt="ProfileVisits" src="https://komarev.com/ghpvc/?username=lizacosx&label=Profile%20Visits&color=7DBF6B&style=for-the-badge">
 <div align="center">
    <h2> My Commits 🍃 </h2>
    <a href="https://github.com/CatsJuice/ssr-contributions-img">

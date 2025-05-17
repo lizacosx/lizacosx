@@ -16,7 +16,7 @@
  <h2> Technology 💻 </h2>
  
   <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,github"/>
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github"/>
   
   </div>
 

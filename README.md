@@ -1,7 +1,7 @@
 <div align="center">  
 <img width=50% src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=30&duration=4000&pause=1000&color=B527F2&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Elisa+Costa;I'm+26+years+old;I+am+from+Rio+de+Janeiro+-+RJ+Brazil+;Be+Welcome!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=30&duration=4000&pause=1000&color=B527F2&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Elisa+Costa;I'm+28+years+old;I+am+from+Rio+de+Janeiro+-+RJ+Brazil+;Be+Welcome!+)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 <div align="center">

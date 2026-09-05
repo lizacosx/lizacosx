@@ -1,7 +1,20 @@
-<div align="center">  
-<img width=50% src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif"/>
+<br>
+
+<div align="center">
+  <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
+</div>
+
+<div align="center" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=30&duration=4000&pause=1000&color=B527F2&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Elisa+Costa;I'm+28+years+old;I+am+from+Rio+de+Janeiro+-+RJ+Brazil+;Be+Welcome!+)](https://git.io/typing-svg)
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">  
+</div>
 
 ## 🌐 Socials:
 <div align="center">
@@ -14,16 +27,11 @@
 </div>
   
  <h2> Technology 💻 </h2>
- 
-  <div align="center">
-  <img src="https://skillicons.dev/icons?i= js,vscode,github"/>
-  
-  </div>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lizacosx&show_icons=true&count_private=true&hide_border=true&title_color=B527F2&icon_color=B527F2&text_color=B527F2&bg_color=0d1117" alt="Elisa Costa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizacosx&layout=compact&hide_border=true&title_color=B527F2&text_color=B527F2&bg_color=0d1117" />
-<img alt="ProfileVisits" src="https://komarev.com/ghpvc/?username=lizacosx&label=Profile%20Visits&color=B527F2&style=for-the-badge">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizacosx&theme=swift&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lizacosx&theme=swift&animation=draw)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lizacosx&theme=swift&animation=draw)
+ 
 <div align="center">
    <h2> My Commits 🍃 </h2>
    <a href="https://github.com/CatsJuice/ssr-contributions-img">
